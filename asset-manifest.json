@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/koinx/static/css/main.d9d5bee9.css",
+    "main.js": "/koinx/static/js/main.aafaf6a2.js",
+    "static/js/787.2583ea4a.chunk.js": "/koinx/static/js/787.2583ea4a.chunk.js",
+    "static/media/image3.png": "/koinx/static/media/image3.99bd08d06f77d66c1392.png",
+    "static/media/image1.png": "/koinx/static/media/image1.57c14febc9705d129071.png",
+    "static/media/image2.png": "/koinx/static/media/image2.0d20321eaee42b578b4b.png",
+    "static/media/slick.svg": "/koinx/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/koinx/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/koinx/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/koinx/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/koinx/index.html",
+    "main.d9d5bee9.css.map": "/koinx/static/css/main.d9d5bee9.css.map",
+    "main.aafaf6a2.js.map": "/koinx/static/js/main.aafaf6a2.js.map",
+    "787.2583ea4a.chunk.js.map": "/koinx/static/js/787.2583ea4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d5bee9.css",
+    "static/js/main.aafaf6a2.js"
+  ]
+}
