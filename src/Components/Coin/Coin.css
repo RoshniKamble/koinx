@@ -1,0 +1,32 @@
+h2 {
+    margin-top: 20px;
+    font-size: 23px;
+}
+
+p.para1 {
+    font-size: 13px;
+    padding: 2px 5px;
+    background: #ebeaea;
+    margin-right: 4px;
+}
+
+p.para2 {
+    font-size: 13px;
+    padding: 2px 5px;
+    background: #ebeaea;
+    color: blue;
+    margin-right: 4px;
+}
+
+p.para3 {
+    font-size: 13px;
+    padding: 2px 5px;
+    background: #ebeaea;
+    margin-right: 4px;
+}
+
+p.para4 {
+    font-size: 13px;
+    padding: 2px 5px;
+    background: #ebeaea;
+}

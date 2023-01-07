@@ -1,0 +1,57 @@
+@import "~slick-carousel/slick/slick.css"; 
+@import "~slick-carousel/slick/slick-theme.css";
+
+.card.mt-3{
+    margin: 10px 41px;
+    width: 18rem;
+}
+
+
+img.card-img-top{
+    height: 70px;
+    width: 70px;
+    margin: 5px;
+}
+
+.card{
+    display: grid;
+    grid-template-columns: 30% 70% ;
+    align-items: center;
+    box-shadow: 10px 10px 30px #b4b4b4;
+}
+
+.card-body{
+    padding: 0;
+    margin: 5px;
+}
+
+h5.card-title{
+    color: #979595;
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+p.card-text{
+    color: #000;
+    font-size: 15px;
+    font-weight: bold;
+}
+.showCarousel{
+    display: none;
+}
+@media screen and (max-width: 720px) {
+    .carousel {
+      display: none;
+    }
+    .carouselPad{
+        padding: 0 10px;
+    }
+    .card.mt-3{
+        margin: 0px 0px;
+    }
+    .showCarousel{
+        display: block;
+    }
+  }
+
+
